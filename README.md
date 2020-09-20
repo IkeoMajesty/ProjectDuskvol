@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+change log:
+
+0.2.0: Added Randomiser which will help to control complete random outcomes and make them more natural. Now changes in standings are more likeley to be 0 and gradualy decrese towards boarder values of -3 and 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
